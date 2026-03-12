@@ -157,7 +157,7 @@ box-shadow:0 6px 20px rgba(0,0,0,0.5);
 <!-- BANNER -->
 
 <div class="banner">
-<img src="https://drive.google.com/uc?id=1BhnfGY7Wqj-r-EBMnYxTwuWBqGD2hXsl">
+<img src="https://raw.githubusercontent.com/LuanFaria/MaxPower/a77939bae1beb8e0d6b357d04e86af18bc5a03da/capa_site_otimizada.png">
 </div>
 
 <!-- LOGO E SLOGAN -->
@@ -199,43 +199,46 @@ Todas as compras são realizadas com segurança através do
 
 <div class="card">
 
-<img src="https://drive.google.com/uc?id=1rw5KSqL5_St-PHFcjWmyyuj74xMIQuER">
+<img src="https://raw.githubusercontent.com/LuanFaria/MaxPower/a77939bae1beb8e0d6b357d04e86af18bc5a03da/proteina_2.png">
 
 <h2>Proteínas</h2>
 
 <p>Whey protein e hipercalórico para ganho de massa muscular e recuperação muscular.</p>
 
-<a class="botao" href="LINK_PROTEINAS" target="_blank">
+<a class="botao" href="https://meli.la/2eyHQ6k" target="_blank">
 COMPRAR
 </a>
 
 </div>
 
 
+
+
+
+
 <div class="card">
 
-<img src="https://drive.google.com/uc?id=1S7hw2lR40gPBEQAEa6KgSambp0AJRB9L">
+<img src="https://raw.githubusercontent.com/LuanFaria/MaxPower/a77939bae1beb8e0d6b357d04e86af18bc5a03da/creatina.png">
 
 <h2>Creatina</h2>
 
 <p>Aumente sua força, explosão muscular e desempenho nos treinos.</p>
 
-<a class="botao" href="LINK_CREATINA" target="_blank">
+<a class="botao" href="https://meli.la/1AGP4gS" target="_blank">
 COMPRAR
 </a>
 
 </div>
 
-
 <div class="card">
 
-<img src="https://drive.google.com/uc?id=1UY3QN6tOSGqOVCjj2d7GH7sJaMpDHSkC">
+<img src="https://raw.githubusercontent.com/LuanFaria/MaxPower/a77939bae1beb8e0d6b357d04e86af18bc5a03da/pre_treino.png">
 
 <h2>Pré-Treino</h2>
 
 <p>Mais energia, foco e intensidade para treinos de alta performance.</p>
 
-<a class="botao" href="LINK_PRETREINO" target="_blank">
+<a class="botao" href="https://meli.la/1beneC8" target="_blank">
 COMPRAR
 </a>
 
@@ -245,13 +248,13 @@ COMPRAR
 
 <div class="card">
 
-<img src="https://drive.google.com/uc?id=193T7uTUN323fcp4nqzGgJYxUZ7u1PLawS">
+<img src="https://raw.githubusercontent.com/LuanFaria/MaxPower/a77939bae1beb8e0d6b357d04e86af18bc5a03da/kits.png">
 
 <h2>Kits Promoção</h2>
 
 <p>Combos especiais com suplementos selecionados para potencializar seus resultados.</p>
 
-<a class="botao" href="LINK_KITS" target="_blank">
+<a class="botao" href="https://meli.la/2ugHrdg" target="_blank">
 VER OFERTAS
 </a>
 
@@ -294,7 +297,7 @@ Energia máxima para sua evolução
 
 <!-- BOTÃO WHATSAPP -->
 
-<a class="whatsapp-float" href="LINK_GRUPO_WHATSAPP" target="_blank">
+<a class="whatsapp-float" href="https://chat.whatsapp.com/G68Ew63LcTZFSk98MfH3hw?mode=gi_t" target="_blank">
 
 📲 Entrar no Grupo
 
