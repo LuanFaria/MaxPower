@@ -1,0 +1,303 @@
+<style>
+
+body{
+font-family:Arial, sans-serif;
+background:#0b0b0b;
+color:white;
+margin:0;
+text-align:center;
+}
+
+/* BANNER */
+
+.banner img{
+width:100%;
+max-height:420px;
+object-fit:cover;
+}
+
+.logo{
+font-size:48px;
+font-weight:bold;
+letter-spacing:2px;
+color:#ff1e1e;
+margin-top:30px;
+}
+
+.slogan{
+font-size:20px;
+color:#ccc;
+margin-bottom:40px;
+}
+
+/* SOBRE A LOJA */
+
+.sobre{
+max-width:900px;
+margin:auto;
+padding:30px;
+font-size:18px;
+line-height:30px;
+color:#ddd;
+}
+
+/* PRODUTOS */
+
+.produtos{
+display:grid;
+grid-template-columns:repeat(auto-fit,minmax(250px,1fr));
+gap:30px;
+padding:40px;
+max-width:1100px;
+margin:auto;
+}
+
+.card{
+background:#141414;
+border-radius:12px;
+overflow:hidden;
+box-shadow:0 0 20px rgba(255,0,0,0.15);
+transition:0.3s;
+}
+
+.card:hover{
+transform:translateY(-8px);
+box-shadow:0 0 30px rgba(255,0,0,0.5);
+}
+
+.card img{
+width:100%;
+height:200px;
+object-fit:cover;
+}
+
+.card h2{
+color:#ff1e1e;
+margin-top:15px;
+}
+
+.card p{
+color:#bbb;
+padding:0 15px;
+}
+
+.botao{
+display:inline-block;
+margin:20px;
+padding:12px 25px;
+background:#ff1e1e;
+color:white;
+text-decoration:none;
+font-weight:bold;
+border-radius:6px;
+transition:0.3s;
+}
+
+.botao:hover{
+background:#b30000;
+transform:scale(1.05);
+}
+
+/* DIFERENCIAIS */
+
+.diferenciais{
+background:#000;
+padding:50px 20px;
+}
+
+.diferenciais h2{
+color:#ff1e1e;
+}
+
+.lista{
+font-size:18px;
+line-height:35px;
+margin-top:20px;
+}
+
+/* RODAPÉ */
+
+.footer{
+background:#0a0a0a;
+padding:30px;
+color:#888;
+font-size:14px;
+}
+
+/* BOTÃO WHATSAPP */
+
+.whatsapp-float{
+position:fixed;
+bottom:25px;
+right:25px;
+background:#25D366;
+color:white;
+border-radius:50px;
+padding:15px 22px;
+font-size:16px;
+font-weight:bold;
+text-decoration:none;
+box-shadow:0 4px 15px rgba(0,0,0,0.3);
+display:flex;
+align-items:center;
+gap:10px;
+z-index:999;
+transition:0.3s;
+}
+
+.whatsapp-float:hover{
+transform:scale(1.08);
+box-shadow:0 6px 20px rgba(0,0,0,0.5);
+}
+
+</style>
+
+
+
+<!-- BANNER -->
+
+<div class="banner">
+<img src="https://drive.google.com/uc?id=1BhnfGY7Wqj-r-EBMnYxTwuWBqGD2hXsl">
+</div>
+
+<!-- LOGO E SLOGAN -->
+
+<div class="logo">MAXPOWER SUPLEMENTOS</div>
+
+<div class="slogan">
+Mais força para o seu treino 💪
+</div>
+
+
+
+<!-- SOBRE A LOJA -->
+
+<div class="sobre">
+
+A <b>MaxPower Suplementos</b> é uma loja especializada em suplementos
+para quem busca evolução física, mais energia nos treinos e melhores
+resultados na academia.
+
+Nosso objetivo é oferecer produtos que auxiliem no ganho de massa
+muscular, melhora de desempenho e recuperação pós-treino.
+
+Aqui você encontra whey protein, creatina, pré-treinos e kits
+promocionais que ajudam você a alcançar seus objetivos de forma
+mais rápida e eficiente.
+
+Todas as compras são realizadas com segurança através do
+<b>Mercado Livre</b>, garantindo praticidade e confiança.
+
+</div>
+
+
+
+<!-- PRODUTOS -->
+
+<div class="produtos">
+
+
+<div class="card">
+
+<img src="https://drive.google.com/uc?id=1rw5KSqL5_St-PHFcjWmyyuj74xMIQuER">
+
+<h2>Proteínas</h2>
+
+<p>Whey protein e hipercalórico para ganho de massa muscular e recuperação muscular.</p>
+
+<a class="botao" href="LINK_PROTEINAS" target="_blank">
+COMPRAR
+</a>
+
+</div>
+
+
+<div class="card">
+
+<img src="https://drive.google.com/uc?id=1S7hw2lR40gPBEQAEa6KgSambp0AJRB9L">
+
+<h2>Creatina</h2>
+
+<p>Aumente sua força, explosão muscular e desempenho nos treinos.</p>
+
+<a class="botao" href="LINK_CREATINA" target="_blank">
+COMPRAR
+</a>
+
+</div>
+
+
+<div class="card">
+
+<img src="https://drive.google.com/uc?id=1UY3QN6tOSGqOVCjj2d7GH7sJaMpDHSkC">
+
+<h2>Pré-Treino</h2>
+
+<p>Mais energia, foco e intensidade para treinos de alta performance.</p>
+
+<a class="botao" href="LINK_PRETREINO" target="_blank">
+COMPRAR
+</a>
+
+</div>
+
+
+
+<div class="card">
+
+<img src="https://drive.google.com/uc?id=193T7uTUN323fcp4nqzGgJYxUZ7u1PLawS">
+
+<h2>Kits Promoção</h2>
+
+<p>Combos especiais com suplementos selecionados para potencializar seus resultados.</p>
+
+<a class="botao" href="LINK_KITS" target="_blank">
+VER OFERTAS
+</a>
+
+</div>
+
+
+</div>
+
+
+
+<!-- DIFERENCIAIS -->
+
+<div class="diferenciais">
+
+<h2>Por que escolher a MaxPower?</h2>
+
+<div class="lista">
+
+💪 Suplementos para alta performance<br>
+⚡ Produtos ideais para evolução do shape<br>
+🔥 Kits promocionais com desconto<br>
+🚚 Compra segura pelo Mercado Livre
+
+</div>
+
+</div>
+
+
+
+<!-- RODAPÉ -->
+
+<div class="footer">
+
+© 2026 MaxPower Suplementos<br>
+Energia máxima para sua evolução
+
+</div>
+
+
+
+<!-- BOTÃO WHATSAPP -->
+
+<a class="whatsapp-float" href="LINK_GRUPO_WHATSAPP" target="_blank">
+
+📲 Entrar no Grupo
+
+</a>
+
+
